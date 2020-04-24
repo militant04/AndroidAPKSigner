@@ -1,0 +1,15 @@
+C:\Personal\AndroidSigner\bin\Debug\AndroidSigner.exe.config
+C:\Personal\AndroidSigner\bin\Debug\AndroidSigner.exe
+C:\Personal\AndroidSigner\bin\Debug\AndroidSigner.pdb
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.Properties.Resources.resources
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.csproj.GenerateResource.cache
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.csproj.CoreCompileInputs.cache
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.exe
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.pdb
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.Form1.resources
+C:\Personal\AndroidSigner\bin\Debug\AndroidSigner.exe.manifest
+C:\Personal\AndroidSigner\bin\Debug\AndroidSigner.application
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.exe.manifest
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.application
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.Configs.resources
+C:\Personal\AndroidSigner\obj\Debug\AndroidSigner.csprojAssemblyReference.cache
